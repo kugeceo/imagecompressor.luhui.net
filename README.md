@@ -1,3 +1,7 @@
+反应式图像压缩器
+反应器图像压缩器
+反应图像压缩器
+反应式图片压缩器
 # React Image Compressor
 
 ## Overview
