@@ -2,9 +2,9 @@
 # 鲁虺自适应图片压缩器luhui React Image Compressor
 反应式图像压缩器\反应器图像压缩器\反应图像压缩器\反应式图片压缩器\
 ## 鲁虺自适应图片压缩器展示
-![鲁虺自适应图片压缩器展示](http://imagecompressor.luhui.net/Rahul-Pandey7react-image-compressor%E5%8F%8D%E5%BA%94%E5%BC%8F%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9%E5%99%A8.jpg)
+![鲁虺自适应图片压缩器展示](http://imagecompressor.luhui.net/luhui-Image-Compressor-http-imagecompressor-luhui-net-React-Image-Compressor.jpg)
 
-![鲁虺自适应图片压缩器展示](http://imagecompressor.luhui.net/Rahul-Pandey7react-image-compressor%E5%8F%8D%E5%BA%94%E5%BC%8F%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9%E5%99%A8.jpg)
+![鲁虺自适应图片压缩器展示](http://imagecompressor.luhui.net/imagecompressor.luhui.net_20220401184303.jpg)
 
 Deploy status badge
 This image automatically updates to reflect the current state of your latest production deploy. You can use the markdown snippet below to add it to your project README.
