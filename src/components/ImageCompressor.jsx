@@ -9,7 +9,7 @@ export default class imageCompressor extends React.Component {
     super();
     this.state = {
       compressedLink:
-        "http://navparivartan.in/wp-content/uploads/2018/11/placeholder.png",
+        "/placeholder.png",
       originalImage: "",
       originalLink: "",
       clicked: false,
@@ -81,7 +81,7 @@ export default class imageCompressor extends React.Component {
               <Card.Img
                 className="ht"
                 variant="top"
-                src="http://navparivartan.in/wp-content/uploads/2018/11/placeholder.png"
+                src="/download.png"
               ></Card.Img>
             )}
             <div className="d-flex justify-content-center">
