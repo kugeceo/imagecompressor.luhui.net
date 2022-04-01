@@ -1,6 +1,6 @@
 
 # 鲁虺自适应图片压缩器luhui React Image Compressor
-反应式图像压缩器\反应器图像压缩器\反应图像压缩器\反应式图片压缩器\
+鲁虺反应式图像压缩器\鲁虺反应器图像压缩器\鲁虺反应图像压缩器\鲁虺反应式图片压缩器\
 ## 鲁虺自适应图片压缩器展示
 ![鲁虺自适应图片压缩器展示](http://imagecompressor.luhui.net/luhui-Image-Compressor-http-imagecompressor-luhui-net-React-Image-Compressor.jpg)
 
@@ -8,6 +8,8 @@
 
 Deploy status badge
 This image automatically updates to reflect the current state of your latest production deploy. You can use the markdown snippet below to add it to your project README.
+
+https://imagecompressors.netlify.app
 
 Deploy status badge
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9d07c231-7ba1-4230-b7d3-b86032e7a34c/deploy-status)](https://app.netlify.com/sites/imagecompressors/deploys)
@@ -33,7 +35,7 @@ A simple image compressor built with [react](https://reactjs.org/) and [browser-
 1. Clone the repository and change directory.
 
 ```
-git clone https://github.com/RaulB-masai/react-image-compressor.git
+git clone https://github.com/kugeceo/imagecompressor.luhui.net.git
 cd react-image-compressor
 ```
 
