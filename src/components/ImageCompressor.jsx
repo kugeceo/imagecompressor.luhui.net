@@ -9,7 +9,7 @@ export default class imageCompressor extends React.Component {
     super();
     this.state = {
       compressedLink:
-        "/placeholder.png",
+        "http://imagecompressor.luhui.net/placeholder.png",
       originalImage: "",
       originalLink: "",
       clicked: false,
@@ -81,7 +81,7 @@ export default class imageCompressor extends React.Component {
               <Card.Img
                 className="ht"
                 variant="top"
-                src="/download.png"
+                src="http://imagecompressor.luhui.net/download.png"
               ></Card.Img>
             )}
             <div className="d-flex justify-content-center">
